@@ -1,4 +1,4 @@
-## Reddit
+## Template
 
 ## ~#
 |App|Open source alternative|Description|Download|
@@ -19,8 +19,6 @@
 ### D
 |App|Open source alternative|Description|Download|
 |---|-----------------------|-----------|--------|
-Reddit| Dank | Here lives the greatest open-source Reddit app | [Official website](https://saket.me/dank)|
-Reddit| Dawn for Reddit | This is a fork of a Reddit application named Dank| [Official repo](https://github.com/Tunous/Dawn)|
 
 ### E
 |App|Open source alternative|Description|Download|
@@ -41,7 +39,6 @@ Reddit| Dawn for Reddit | This is a fork of a Reddit application named Dank| [Of
 ### I
 |App|Open source alternative|Description|Download|
 |---|-----------------------|-----------|--------|
-Reddit| Infinity for Reddit|Infinity is a beautiful, feature-rich app that offers a smooth Reddit browsing experience. It is completely free and ad-less; you can browse Reddit without interruptions or distractions|[Official repo](https://github.com/Docile-Alligator/Infinity-For-Reddit)|
 
 ### J
 |App|Open source alternative|Description|Download|
@@ -54,7 +51,6 @@ Reddit| Infinity for Reddit|Infinity is a beautiful, feature-rich app that offer
 ### L
 |App|Open source alternative|Description|Download|
 |---|-----------------------|-----------|--------|
-Reddit| Libreddit | Private front-end for Reddit written in Rust | [Official website](https://libredd.it/)|
 
 ### M
 |App|Open source alternative|Description|Download|
@@ -79,13 +75,10 @@ Reddit| Libreddit | Private front-end for Reddit written in Rust | [Official web
 ### R
 |App|Open source alternative|Description|Download|
 |---|-----------------------|-----------|--------|
-Reddit| RedReader | An unofficial open source Reddit client for Android | [Official repo](https://github.com/QuantumBadger/RedReader)|
 
 ### S
 |App|Open source alternative|Description|Download|
 |---|-----------------------|-----------|--------|
-Reddit| Slide for Reddit |Slide for Reddit is a rock-solid material-designed unofficial browser for Reddit with an easy to use UI and tons of customization|[Official repo](https://github.com/ccrama/Slide)|
-Reddit| Stealth|Stealth is an account-free, privacy-oriented, and feature-rich Reddit client| [Official repo](https://gitlab.com/cosmosapps/stealth)|
 
 ### T
 |App|Open source alternative|Description|Download|
