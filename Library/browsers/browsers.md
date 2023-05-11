@@ -16,7 +16,8 @@
 | I |Iceraven|A web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components.|[Official repo](https://github.com/fork-maintainers/iceraven-browser)|
 | J |jQuarks|LineageOS Jelly browser + ads Blocker + offline reading|[Official website](https://f-droid.org/en/packages/com.oF2pks.jquarks/)|
 | K |Kiwi Browser|Fast & Quiet web browser for Android with night mode and Adblock built-in|[Official website](https://kiwibrowser.com/)|
-| L |Lightning Browser|A lightweight Android browser with modern navigation|[Official website](http://acrdevelopment.org/)|
+| L |LibreWolf |LibreWolf, the community-maintained fork of Librefox: a privacy and security-focused browser|[Official website](https://librewolf.net/)|
+|   |Lightning Browser|A lightweight Android browser with modern navigation|[Official website](http://acrdevelopment.org/)|
 | M |Midori|Midori is a lightweight, fast, and free web browser. It aligns well with the Xfce philosophy of making the most out of available resources |[Official website](https://astian.org/en/midori-browser/)|
 |   |Monocles browser| A web browser that respects your privacy |[Official website](https://monocles.de/more/)|
 |   |Mozilla Firefox|Firefox is a cross-platform web browser developed by the Mozilla Foundation |[Official website](https://www.mozilla.org/firefox)|

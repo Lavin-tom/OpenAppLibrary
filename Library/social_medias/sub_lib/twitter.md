@@ -10,6 +10,7 @@
 | F |Fritter for Twitter |A free, open-source Twitter client for Android and iOS |[Official repo](https://github.com/jonjomckay/fritter)|
 | G | | | |
 | H |Harpy |A Twitter app built with Flutter |[Official repo](https://github.com/robertodoering/harpy)|
+|   |Hotot|Hotot, is a lightweight & open source microblogging desktop client for Twitter and Identi.ca|[Official website](http://hotot.org/)|
 | I | | | |
 | J | | | |
 | K | | | |
