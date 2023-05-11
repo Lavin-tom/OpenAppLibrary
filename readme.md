@@ -5,7 +5,7 @@ Welcome to the OpenApp Library repository! This is a collection of open-source a
 
 | Name of category | What's inside |
   ---------------- | ------------- 
-  |[Ad-Blocker](Library/adblocker/ad_blocker.md) | Ads-blocker for android windows linux .. |
+  |[Ad-Blocker](Library/adblocker/adblocker.md) | Ads-blocker for android windows linux .. |
   |[App Stores](Library/app_stores/app_stores.md) | App store client for playstore, f-droid ..|
   |[Browsers](Library/browsers/browsers.md)| Browsers based on chrominum, firefox ..|
   |[Fire wall](Library/fire_wall/firewall.md)  |  firewall for android window linux ..|
