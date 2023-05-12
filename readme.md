@@ -9,11 +9,11 @@ Welcome to the OpenApp Library repository! This is a collection of open-source a
   |[App Stores](Library/app_stores/app_stores.md) | App store client for playstore, f-droid ..|
   |[Browsers](Library/browsers/browsers.md)| Browsers based on chromium, firefox ..|
   |[Calculators](Library/calculators/calculators.md)| Calculators for android, windows, linux..|
-  |[Calendars](Library/calendars/calendar.md)| Calculators for android, windows, linux..|
+  |[Calendars](Library/calendars/calendar.md)| Calendars for android, windows, linux..|
   |[Camera Apps](Library/camera/camera.md)| Cameara apps.. |
   |[Contact](Library/contacts/contact.md)| contact manager for android, windows, linux.. |
   |[File Manager](Library/file_managers/file_manager.md)| file managers for android, windows, linux.. |
-  |[Fire wall](Library/fire_wall/firewall.md)  |  firewall for android window linux ..|
+  |[Fire wall](Library/firewall/firewall.md)  |  firewall for android window linux ..|
   |[Gallery App](Library/gallery/gallery.md)  |  gallery apps for android window linux ..|
   |[Social Medias](Library/social_medias/)| Social media clients for reddit,twitter,mastodon,discord ..|
   
