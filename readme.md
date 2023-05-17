@@ -15,6 +15,7 @@ Welcome to the OpenApp Library repository! This is a collection of open-source a
   |[File Manager](Library/file_managers/file_manager.md)| file managers for android, windows, linux.. |
   |[Fire wall](Library/firewall/firewall.md)  |  firewall for android window linux ..|
   |[Gallery App](Library/gallery/gallery.md)  |  gallery apps for android window linux ..|
+  |[Image Editors](Library/image_editors/image_editors.md) | Image editors for windows, mac, linux and android|
   |[Social Medias](Library/social_medias/)| Social media clients for reddit,twitter,mastodon,discord ..|
   
  
