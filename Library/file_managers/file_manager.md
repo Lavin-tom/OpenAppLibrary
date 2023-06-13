@@ -40,5 +40,6 @@
 | U | | | | |
 | V | | | | |
 | W |Windows File Manager |The Windows File Manager lives again and runs on all currently supported version of Windows, including Windows 10 |Windows |[Official repo](https://github.com/Microsoft/winfile) |
+| X | | | | |
 | Y | | | | |
 | Z | | | | |

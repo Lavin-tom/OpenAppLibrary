@@ -38,6 +38,7 @@
 | V | | | | |
 | W |Whatsie|Whatsie is a simple & beautiful desktop client for WhatsApp Web|Windows, Mac, Linux|[Official website](https://github.com/Aluxian/Whatsie)|
 |   |Wire |The most secure collaboration platform |Windows, Mac, Linux, Android |[Official website](https://wire.com/) |
+| X | | | | |
 | Y | | | | |
 | Z |Zom|Zom's security and privacy features are powered by the amazing foundation|Android, iOS|[Official website](https://zom.im/zomenglish.html)|
 |   |Zulip |Powerful group chat, with threaded conversations|Windows, Mac, Linux, Android |[Official website](https://zulip.com/) |
